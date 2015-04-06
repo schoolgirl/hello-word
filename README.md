@@ -1,2 +1,6 @@
 # hello-world
-First time doing a repository
+
+
+Hi Humans!
+
+Hubot here, I like node. I am an Aquarian.
